@@ -1,0 +1,1 @@
+EXCEL_PATH = './data/api_cases.xlsx'
