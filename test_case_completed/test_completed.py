@@ -6,9 +6,9 @@
 5. clear report structure
 '''
 import pytest
-from class_09.test_case_completed.common_func import read_excel,edit_excel_and_save
-from class_09.VAR import *
-from class_09.keyword_encap import Keycap
+from test_case_completed.common_func import read_excel,edit_excel_and_save
+from VAR import *
+from keyword_encap import Keycap
 import allure
 
 
